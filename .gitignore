@@ -1,0 +1,50 @@
+# Flutter/Dart files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Environment variables - NEVER COMMIT THESE!
+.env
+.env.local
+.env.*.local
+
+# Node.js backend
+swastik_backend/node_modules/
+swastik_backend/.env
+
+# Platform-specific
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.ap_
+*.aab
+.gradle/
+local.properties
+swastik_app/android/local.properties
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+.symlinks/
+
+# Uploads folder (user-generated content)
+swastik_backend/uploads/
