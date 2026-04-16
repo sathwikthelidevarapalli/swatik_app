@@ -1,4 +1,4 @@
-# Swastik - Wedding Planning Platform
+# Swastik - Event Management Platform
 
 A comprehensive wedding planning application with Flutter frontend and Node.js backend.
 
