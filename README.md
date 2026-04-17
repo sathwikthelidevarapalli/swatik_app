@@ -73,4 +73,4 @@ A comprehensive event planning application with Flutter frontend and Node.js bac
 
 ## License
 
-All rights reserved.
+All rights reserved
